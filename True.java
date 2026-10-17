@@ -3,7 +3,9 @@ package Datatypes;
 public class True {
     public static void main(String[] args) {
         boolean b=true;// True is not allowed 
+        System.out.println(b);
     }
+
 }
 //size :n.a
 //range :n.a
